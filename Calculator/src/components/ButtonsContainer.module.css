@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: gray;
+    /* background-color: gray; */
     border-radius: 10px;
     overflow: hidden;
     
@@ -14,5 +14,6 @@
     color: green;
     border: 1px solid green;
     background-color:black;
+    font-size: 20px;
 
 }
