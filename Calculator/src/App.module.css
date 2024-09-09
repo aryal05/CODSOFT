@@ -1,4 +1,6 @@
-
+body{
+    background-color: #A9BA9D;
+}
 
 .calculator{
     border: 2px solid rgb(160, 160, 160);
