@@ -1,0 +1,18 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: gray;
+    border-radius: 10px;
+    overflow: hidden;
+    
+}
+.button{
+    width: 57px;
+    height: 45px;
+    margin: 3px;
+    color: green;
+    border: 1px solid green;
+    background-color:black;
+
+}
