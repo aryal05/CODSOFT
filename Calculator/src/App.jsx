@@ -24,11 +24,14 @@ function App() {
   }
 
   return (
+    <>
+    <h1 className={style.head}>Calculate Here</h1>
     <div className= {style.calculator}>
      <Display displayVal= {calVal}></Display>
      <ButtonsContainer onButtonClick = {onButtonClick}></ButtonsContainer>
   
     </div>
+    </>
   )
 }
 

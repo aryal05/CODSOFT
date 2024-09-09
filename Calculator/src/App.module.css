@@ -1,10 +1,17 @@
 .calculator{
     border: 2px solid rgb(160, 160, 160);
     border-radius: 9px;
+    background-color: antiquewhite;
     width: 250px;
+    margin: auto;
     /* margin-left: 550px; */
     
 
     
     
+}
+.head{
+    width: 250px;
+    margin: auto;
+  
 }
