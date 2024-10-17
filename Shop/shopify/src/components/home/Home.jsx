@@ -5,19 +5,19 @@ const Home = () => {
 
     <div className='flex items-center justify-around'>
         <div>
-            <h1>Home section components
+            <h1>Top Rated
 
             </h1>
         </div>
 
         <div>
-            <h1>Home section components
+            <h1>Items To Display
 
             </h1>
         </div>
-        
+
         <div>
-            <h1>Home section components
+            <h1>Things to buy
 
             </h1>
         </div>
