@@ -34,12 +34,12 @@ const Home = () => {
                 
 
             </h1>
-            <li>Movie</li>
-              <li>Movie</li>
-              <li>Movie</li>
-              <li>Movie</li>
-              <li>Movie</li>
-              <li>Movie</li>
+            <li>Souvenirs</li>
+              <li>Local HandCrafts</li>
+              <li>Clothing</li>
+              <li>Jewelry</li>
+              <li>ArtWorks</li>
+              <li>Toys For Children</li>
         </div>
 
     </div>
