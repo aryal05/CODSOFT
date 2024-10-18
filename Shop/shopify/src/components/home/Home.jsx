@@ -25,8 +25,8 @@ const Home = () => {
               <li>Location</li>
               <li>Image</li>
               <li>Short Description</li>
-              <li>Movie</li>
-              <li>Movie</li>
+              <li>Best Time To Visit</li>
+              <li>Fun Facts</li>
         </div>
 
         <div>
