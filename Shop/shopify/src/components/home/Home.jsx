@@ -34,10 +34,12 @@ const Home = () => {
                 
 
             </h1>
-            <li>Movie 1</li>
-              <li>Movie 1</li>
-              <li>Movie 1</li>
-              <li>Movie 1</li>
+            <li>Movie</li>
+              <li>Movie</li>
+              <li>Movie</li>
+              <li>Movie</li>
+              <li>Movie</li>
+              <li>Movie</li>
         </div>
 
     </div>
