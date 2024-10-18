@@ -9,20 +9,24 @@ const Home = () => {
 
             </h1>
             
-              <li>Movie 1</li>
-              <li>Movie 1</li>
-              <li>Movie 1</li>
-              <li>Movie 1</li>
+              <li>Machu Picchu, Peru – Ancient Incan city set high in the Andes mountains.</li>
+              <li>Great Barrier Reef, Australia – The world’s largest coral reef system.</li>
+              <li>Santorini, Greece – Famous for stunning sunsets and whitewashed buildings.</li>
+              <li>Grand Canyon, USA – A natural wonder with breathtaking views.</li>
+              <li>Iceland – Known for its glaciers, waterfalls, and Northern Lights.</li>
+              <li>Paris, France – Iconic landmarks such as the Eiffel Tower and the Louvre Museum.</li>
             
         </div>
 
         <div>
             <h1>Items To Display
             </h1>
-            <li>Movie 1</li>
-              <li>Movie 1</li>
-              <li>Movie 1</li>
-              <li>Movie 1</li>
+            <li>Place Name</li>
+              <li>Location</li>
+              <li>Image</li>
+              <li>Short Description</li>
+              <li>Movie</li>
+              <li>Movie</li>
         </div>
 
         <div>
