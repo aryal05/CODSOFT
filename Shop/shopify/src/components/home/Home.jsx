@@ -6,7 +6,7 @@ const Home = () => {
     <div className='flex items-center justify-around bg-slate-300 leading-10'>
 
         <div className=' hover:bg-slate-500 hover:bg-opacity-10 transition duration-200 ease-in-out hover:scale-90 hover:cursor-pointer'>
-            <h1>Top Rated
+            <h1 className='text-center'>Top Rated
 
             </h1>
             
@@ -20,7 +20,7 @@ const Home = () => {
         </div>
 
         <div className=' hover:bg-slate-500 hover:bg-opacity-10 transition duration-200 ease-in-out hover:scale-90 hover:cursor-pointer' >
-            <h1>Items To Display
+            <h1 className='text-center'>Items To Display
             </h1>
             <li>Place Name</li>
               <li>Location</li>
@@ -31,7 +31,7 @@ const Home = () => {
         </div>
 
         <div className=' hover:bg-slate-500 hover:bg-opacity-10 transition duration-200 ease-in-out hover:scale-90 hover:cursor-pointer'>
-            <h1>Things to buy.
+            <h1 className='text-center'>Things to buy.
                 
 
             </h1>
