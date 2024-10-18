@@ -3,7 +3,8 @@ import React from 'react'
 const Home = () => {
   return (
 
-    <div className='flex items-center justify-around '>
+    <div className='flex items-center justify-around bg-slate-300 leading-10'>
+
         <div>
             <h1>Top Rated
 
@@ -43,6 +44,7 @@ const Home = () => {
         </div>
 
     </div>
+
     
   )
 }
