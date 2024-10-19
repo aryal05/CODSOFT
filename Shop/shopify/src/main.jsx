@@ -5,6 +5,7 @@ import './index.css';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Home from './components/home/Home.jsx';
+import Section from './components/Section.jsx';
 
 
 const router = createBrowserRouter([
@@ -16,10 +17,10 @@ const router = createBrowserRouter([
         index: true,  // This makes sure the home route '/' renders the Home component
         element: <Home/>,
       },
-      // {
-      //   path: 'contact',
-      //   element: <Contact />,
-      // },
+      {
+        path: 'section',
+        element: <Section/>,
+      },
       // {
       //   path: 'about',
       //   element: <About />,
