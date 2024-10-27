@@ -11,6 +11,15 @@ const Section = () => {
       </div>
       <div className='border-black m-3 border-2 bg-amber-100 w-96 h-[500px] bg-opacity-15 flex rounded-2xl'>
         <h1 className='m-4'>Section Menu</h1>
+        <ul className=''>
+          <li>
+            section list
+            section list
+            section list
+            section list
+            section list
+          </li>
+        </ul>
       </div>
     </>
   )
